@@ -1,0 +1,42 @@
+body {
+background:black;
+padding:0;
+margin:0;
+}
+
+#header{
+width:1000px; height:100px; background:white;
+margin-left:auto; margin-right:auto;
+}
+
+#navbar{
+width:1000px; height:45px; background:brown;
+margin-left:auto; margin-right:auto;
+}
+
+#main_content{
+width:1000px;
+margin-left:452px; float:left;
+background:white;
+}
+#main_content p {padding-left:100px; padding-right:100px; }
+
+#main_content h2 {padding:5px; color:brown;  }
+
+#searchbox {text-align:right;}
+
+#sidebar{width:298px; height:600px; margin-right:453px; float:right;
+background:gray;}
+
+#footer{
+width:100%; height:80px; background:brown; clear:both;
+}
+
+#logo{float:left;}
+#banner{float:right;}
+
+#ul{padding-top:8px;}
+#ul li{list-style:none; display:inline; color:black; }
+#ul li a:link{ color:black; text-decoration:none; font-size:16px; font-family:comic sans MS; margin:5px; border-left:5px; border-color:white;}
+#ul li a:hover{ color:white; text-decoration:underline; font-size:16px; 
+font-family:comic sans MS; margin:5px; background:orange;}

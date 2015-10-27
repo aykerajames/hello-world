@@ -1,0 +1,15 @@
+1) Dynamic Website for the users
+2) Dynamic Images & Content on the site
+3) Custom Search Engine for the site
+4) Commenting System in the site
+5) Contact form in PHP (Sending Mails)
+6) Secure & Advance Admin Panel
+7) Uploading Website to ONline Web server
+
+
+
+Database & Tables
+1) Database for storing the information
+2) Table for posts
+3) Table for Comments
+4) Table for Admin Login
